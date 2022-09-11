@@ -1,13 +1,14 @@
 .title{
-    font-size: 50px;
     text-align: center;
+    font-size: 55px;
+    font-family: Courier,sans-serif;
+    color: slateblue;
     font-weight: bolder;
-    color: rgb(89, 0, 255);
-    font-family: 'Courier New', 'Times New Roman',sans-serif;
 }
 .recipes{
-    font-size: 35px;
-    font-weight: 500;
-    color: teal;
+    text-align: justify;
+    font-size: 45px;
     font-family: monospace,sans-serif;
+    color: aquamarine;
+    font-weight: bold;
 }

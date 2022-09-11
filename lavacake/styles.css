@@ -20,6 +20,17 @@
     font-family: monospace,sans-serif;
 }
 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
-    width: 300px;
+    width: 400px;
+}
+.button{
+    text-align: right;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 700;
+    color: blueviolet;
+    background-color: turquoise;
 }
