@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Courier New', sans-serif;
+    color: blueviolet;
+}
+.title.sub{
+    font-size: 45;
+}
+.desc{
+    text-align: justify;
+    font-size: 35;
+    color: black;
+    font-family: monospace,sans-serif;
+}
+.list{
+    text-align: justify;
+    font-size: 35;
+    color: brown;
+    font-family: monospace,sans-serif;
+}
+img{
+    height: auto;
+    width: 300px;
+}
